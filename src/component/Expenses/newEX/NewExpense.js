@@ -33,6 +33,7 @@ const NewExpense = (props) => {
         )}
       </div>
     );
+   
 }
 
 
